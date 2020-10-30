@@ -46,8 +46,7 @@ namespace CSH1_Tag_04_Aufgabe_05
                 buffer = uncompressed[i];
             }
 
-            foreach (string s in compressed)
-                Console.Write(s + ", ");
+            Console.WriteLine(string.Join(", ", compressed));
             Console.ReadKey();
         }
 
