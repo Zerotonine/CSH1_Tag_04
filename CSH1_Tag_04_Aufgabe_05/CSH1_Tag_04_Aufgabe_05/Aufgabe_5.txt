@@ -1,0 +1,12 @@
+﻿/*  Schreiben Sie eine Methode, die eine übergebenes String-Array komprimiert und das Ergebnis zurück gibt. 
+ 	Dabei soll folgende Regel gelten: 
+		Zeichen, die mehr als 4 Mal hintereinander vorkommen, werden zusammengefasst. Zur Kennzeichnung einer komprimiert Teil-Zeichenkette wird das $-Zeichen verwendet.
+	Beispiel:
+		Das String-Array  { "A", "A", "A", "A", "2", "2", "7", "7", "7", "7", "7", "7", "7", "7", "O", "P", "P", "P", "P", "P", "9", "9", "9" } 
+		wird komprimiert zu { "A", "A", "A", "A", "2", "2", "$", "8", "7", "O", "$", "5", "P", "9", "9", "9", }
+		
+	Um Zeichen einem komprimierten Array hinzufügen zu können, schreiben Sie eine "Add"-Methode. Diese soll ein übergebenes String-Array um einen übergebenen String erweitern und das neue Array zurückgeben (als Return oder Call-By-Reference)
+	
+	Erstellen Sie ein Pap/Struct/Pseudocode und ein C# Programm.
+
+*/

@@ -1,0 +1,9 @@
+﻿/* Schreiben Sie folgendes C# Programm:
+ * Erstellen Sie ein Integer-Array der Größe MaxInt / 10 und lassen Sie es mit Zufallswerten füllen.
+ * Anschließend speichern Sie sich die Systemzeit und lassen das Array in einer For-Schleife laufen 
+ * (in dem Sie z.B. den aktuellen Wert an eine andere Variable zuweisen).
+ * Speichern Sie sich wieder die Systemzeit und geben Sie die gemessene differenz aus.
+ * Dann speichern Sie sich erneut die Systemzeit, lassen das Array in einer ForEach-Schleife laufen
+ * und messen die verstrichene Zeit.
+ * Erweiterung: Lassen Sie die beiden Schleifen mehrmals laufen und messen Sie den Durchschnitt
+ */
